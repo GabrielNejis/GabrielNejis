@@ -24,7 +24,7 @@ A continuación se adjunta una vista rápida de la primera hoja del texto.
 
 En este módulo aprendimos a programar en lenguaje R-Cran.
 
-Las carpetas tienen un peso superior al soportado por la página, por lo tanto para redireccionarse debe hacer click [aquí](https://drive.google.com/drive/folders/1HEM_isEp7LbVlm91iToKb4mDX7BWdak1?usp=sharing).
+Las carpetas tienen un peso superior al soportado por la página, por lo tanto para redireccionarse al enlace de Drive debe hacer click [aquí](https://drive.google.com/drive/folders/1HEM_isEp7LbVlm91iToKb4mDX7BWdak1?usp=sharing).
 
 A continuación se adjunta una vista rápida de la primera hoja del archivo.
 
