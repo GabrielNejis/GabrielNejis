@@ -7,5 +7,5 @@ Para poder acceder, hacer click [aquí](https://github.com/GabrielNejis/GabrielN
 
 A continuación se adjunta una imagen rápida del CV.
 
-![](CV imagen.jpg)
+
 
