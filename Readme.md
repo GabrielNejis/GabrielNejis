@@ -26,7 +26,7 @@ En este módulo aprendimos a programar en lenguaje R-Cran.
 
 Las carpetas tienen un peso superior al soportado por la página, por lo tanto para redireccionarse debe hacer click [aquí](https://drive.google.com/drive/folders/1HEM_isEp7LbVlm91iToKb4mDX7BWdak1?usp=sharing).
 
-A continuación se adjunta vista previa.
+A continuación se adjunta una vista rápida de la primera hoja del archivo.
 
 ![](Rpub.jpg)
 
@@ -36,7 +36,7 @@ En este módulo realizamos un Benchmarking sobre el Transporte Público de Pasaj
 
 Para acceder, hacer click [aquí](https://github.com/GabrielNejis/GabrielNejis/tree/main/Benchmarking).
 
-A continuación se adjunta una imagen sobre la primera página.
+A continuación se adjunta una imagen sobre la primera página del archivo.
 
 ![](bench.jpg)
 
