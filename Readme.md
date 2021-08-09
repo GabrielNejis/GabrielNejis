@@ -3,7 +3,7 @@
 ### Currículum Vitae
 El primer trabajo fue la creación del CV en formato LaTex, mediante la plataforma Overleaf.
 
-Para poder acceder, hacer click [aquí](https://github.com/GabrielNejis/GabrielNejis/tree/main/CV) 
+Para poder acceder, hacer click [aquí](https://github.com/GabrielNejis/GabrielNejis/tree/main/CV) .
 
 A continuación se adjunta una vista rápida del CV.
 
