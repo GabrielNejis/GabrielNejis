@@ -38,5 +38,7 @@ Para acceder, hacer click [aquí](https://github.com/GabrielNejis/GabrielNejis/t
 
 A continuación se adjunta una imagen sobre la primera página.
 
+![](bench.jpg)
+
 
 
