@@ -26,3 +26,5 @@ Las carpetas tienen un peso superior al soportado por la página, por lo tanto p
 
 A continuación se adjunta vista previa.
 
+![](Rpub.jpg)
+
