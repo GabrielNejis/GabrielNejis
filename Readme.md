@@ -22,9 +22,15 @@ A continuación se adjunta una vista rápida de la primera hoja del texto.
 
 ## Módulo 2: Programación en Lenguaje R-Cran
 
+En este módulo aprendimos a programar en lenguaje R-Cran.
+
 Las carpetas tienen un peso superior al soportado por la página, por lo tanto para redireccionarse debe hacer click [aquí](https://drive.google.com/drive/folders/1HEM_isEp7LbVlm91iToKb4mDX7BWdak1?usp=sharing).
 
 A continuación se adjunta vista previa.
 
 ![](Rpub.jpg)
 
+## Módulo 3: Benchmarking
+
+En este módulo realizamos un Benchmarking sobre el Transporte Público de Pasajeros en Mendoza.
+Para acceder, hacer click [aquí](
