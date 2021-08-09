@@ -5,7 +5,7 @@ El primer trabajo fue la creación del CV en formato LaTex, mediante la platafor
 
 Para poder acceder, hacer click [aquí](https://github.com/GabrielNejis/GabrielNejis/tree/main/CV) 
 
-A continuación se adjunta una imagen rápida del CV.
+A continuación se adjunta una vista rápida del CV.
 
 ![](CVgabi.jpg)
 
