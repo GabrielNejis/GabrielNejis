@@ -20,4 +20,6 @@ A continuación se adjunta una vista rápida de la primera hoja del texto.
 
 ![](TraducciónU9.jpg)
 
+## Módulo 2: Programación en Lenguaje R-Cran
 
+Las carpetas tienen un peso superior al soportado por la página, por lo tanto para redireccionarse debe hacer click [aquí](
