@@ -12,4 +12,12 @@ A continuación se adjunta una vista rápida del CV.
 
 ### Traducción
 
-El segundo trabajo fue la traducción de la Unidad 9 del libro 
+El segundo trabajo fue la traducción de la Unidad 9 del libro "Sustainable Energy Transition", también en formato LaTex mediante la plataforma Overleaf.
+
+Para poder acceder, hacer click [aquí](https://github.com/GabrielNejis/GabrielNejis/tree/main/Traducci%C3%B3n).
+
+A continuación se adjunta una vista rápida de la primera hoja del texto.
+
+![](TraducciónU9.jpg)
+
+
